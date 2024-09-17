@@ -24,7 +24,5 @@ INT2 (Resume): Triggered on a falling edge, this interrupt resumes Timer1’s co
 Additional Features:
 Manual Time Adjustment: Users can modify the hours, minutes, and seconds manually using the adjustment buttons, allowing flexibility in countdown mode.
 
-🔗 Code will be upload on GitHub after deadline : 
-https://lnkd.in/e3nubPnM
 🔗 Watch the video on my YouTube channel :
 https://lnkd.in/e-ffAN-z
